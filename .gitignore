@@ -1,0 +1,5 @@
+__pycache__/
+telegram_bot.egg-info
+venv
+
+.env
